@@ -1,0 +1,17 @@
+# Config files TXT
+edit_cronjobs.txt
+delete_cronjobs.txt
+toggle_cronjobs.txt
+current_cronjobs.txt
+new_cronjob.txt
+validate_cronjobs.txt
+menu_choice.txt
+toggle_number.txt
+
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+*.cache
+*.tmp
